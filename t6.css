@@ -1,6 +1,7 @@
-cuerp0 {
-    background-color: right;
+body {
+    background-color: pink;
 }
 p {
-    borde: solido;
-    text-alineacion: itálico;
+    border: solid;
+    text-align: right
+}
